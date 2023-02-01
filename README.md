@@ -8,7 +8,10 @@ Para correr este script, se necesitan los siguientes paquetes instalados en su s
 - Python 3.9.5
 - Turtle (viene incluido en la instalación de Python)
 
-## Uso
+Python 3.9.5
+Turtle (viene incluido en la instalación de Python)
+
+Uso
 Descargue el script en su computadora.
 Abra un terminal o línea de comandos y navegue hasta la ubicación del script.
 Ejecute el script con el comando `py tree.py`
